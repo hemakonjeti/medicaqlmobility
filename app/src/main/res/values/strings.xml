@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Medical Zone</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mapping">Mapping</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">Medical zone </string>
+    <string name="desc_slide1">It will always help you and it save the life</string>
+    <string name="title_slide2">Google Maps</string>
+    <string name="desc_slide2">It will  keep you updated on battery charging status through notification and home screen widget</string>
+    <string name="title_slide3">Online Pharmacy </string>
+    <string name="desc_slide3">It will alert you when battery reaches 100%</string>
+    <string name="title_slide4">Emergency Call</string>
+    <string name="desc_slide4">It will alert you when battery reaches 100%</string>
+    <string name="title_slide5">BMI Calculator</string>
+    <string name="desc_slide5">It will alert you when battery reaches 100%</string>
+    <string name="title_slide6">News Feed</string>
+    <string name="desc_slide6">It will alert you when battery reaches 100%</string>
+    <string name="title_slide7">Alert on 100%</string>
+    <string name="desc_slide7">It will alert you when battery reaches 100%</string>
+</resources>
